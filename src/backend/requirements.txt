@@ -1,0 +1,9 @@
+Flask
+Flask-RESTful
+Flask-Script==2.0.5
+flask-cors
+twill
+bs4
+selenium
+selenium-requests
+selenium-wire
